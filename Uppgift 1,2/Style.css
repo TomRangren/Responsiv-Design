@@ -1,0 +1,26 @@
+body {
+	margin: 0;
+	padding: 0;
+	height: 100vh;
+}
+table {
+	height: 100%;
+	width: 100%;
+	border-collapse: collapse;
+}
+.blue {
+	background-color: blue;
+}
+.red {
+	background-color: red;
+}
+.green {
+	background-color: green;
+}
+.yellow {
+	background-color: yellow;
+}
+h1 {
+	font-size: 5vw;
+	text-align: center;
+}
